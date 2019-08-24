@@ -2,10 +2,16 @@
 A repo to play with the common git operations in.
 
 Steps to complete for the in class activity
+- Get social with github. Setup your account
+- Go to https://github.com/elmsln and start / watch / fork the "elmsln" and "haxcms" project repos
 - Fork this repo
-- Add an additional step to this list called "My change in context"
-- Place that change on line number 7
-- Ensure that you keep it in the same bulleted list
+- From your copy of the repo, edit the README.md file (this file)
+- Add an additional step to this list called "My change in context", Ensure that you keep it in the same bulleted list
+- add a heading and remove another one already on the page
+- Then add a link and a gif at the bottom
+- Use the commit message in order to indicate what you changed
+- Then issue a pull request back against this repo
+- https://oer.hax.psu.edu/bto108/sites/ist402/labs/git will have the non-messed with directions as we'l screw up this repo to see how version control works
 
 # Look at how this turns into a heading
 This is called Markdown. Markdown is a very simple format that involves adding special keyboard characters before thing to change the meaning of how it should be presented
