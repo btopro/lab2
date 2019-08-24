@@ -1,4 +1,4 @@
-# lab2
+# Start of lab2
 A repo to play with the common git operations in.
 
 Steps to complete for the in class activity
