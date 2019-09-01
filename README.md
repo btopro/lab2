@@ -1,5 +1,8 @@
 # Start of lab2
-A repo to play with the common git operations in.
+A repo to play with the common git operations in and learn how to get working with markdown
+## Helpful links
+- Cheat sheet - https://www.markdownguide.org/cheat-sheet
+- Desktop app (optional, very useful for development) https://desktop.github.com/
 
 Steps to complete for the in class activity
 - Get social with github. Setup your account
