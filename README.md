@@ -20,7 +20,7 @@ A repo to play with the common git operations in and learn how to get working wi
 ## Working definition of Git and what it's done for
 
 ## What do you think the top 3 reasons to use GitHub / GitLab are?
-1. GitHub provides cloud storage for source code
+1. GitHub provides cloud storage for source code.
 2. GitHub keeps track of the changes made to every iteration. 
 3. GitHub is the largest shared repository.
 
@@ -37,4 +37,4 @@ A pull request is a method of submitting contributions to an open development pr
 You can also do images like the one just below here using the !
 ![Oh Spongebob](https://media.giphy.com/media/3oEjI4sFlp73fvEYgw/giphy.gif).
 
-![alt PatrickStar](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjQvL7rkLjkAhUwm-AKHe00D3QQjRx6BAgBEAQ&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fi-love-you-spongebob-squarepants-wL23aMJn2AhTa&psig=AOvVaw0eCY2rhNgQm7JkROsOKjSQ&ust=1567719458446488.jpg)
+![Oh Patrick Star](https://media.giphy.com/media/RDwjLqQ1P6CLC/giphy.gif)
