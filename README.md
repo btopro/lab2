@@ -35,4 +35,4 @@ A pull request is informing other users of a project about the changes you are p
 ### Change this image to be something else with different alt data
 You can also do images like the one just below here using the !
 ![Oh Spongebob](https://media.giphy.com/media/3oEjI4sFlp73fvEYgw/giphy.gif).
-![Forever Alone](https://giphy.com/gifs/forever-alone-CSORTyXB78REI)
+![Forever Alone](https://media.giphy.com/media/gtoONZQegPnPy/giphy.gif)
