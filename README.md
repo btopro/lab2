@@ -37,4 +37,4 @@ A pull request is a method of submitting contributions to an open development pr
 You can also do images like the one just below here using the !
 ![Oh Spongebob](https://media.giphy.com/media/3oEjI4sFlp73fvEYgw/giphy.gif).
 
-!(https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwivkYCekLjkAhXPnOAKHWmYCd0QjRx6BAgBEAQ&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fpatrick-star&psig=AOvVaw0eCY2rhNgQm7JkROsOKjSQ&ust=1567719458446488.gif)
+![Oh Patrickstar](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwivkYCekLjkAhXPnOAKHWmYCd0QjRx6BAgBEAQ&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fpatrick-star&psig=AOvVaw0eCY2rhNgQm7JkROsOKjSQ&ust=1567719458446488.gif).
