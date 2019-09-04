@@ -18,7 +18,7 @@ A repo to play with the common git operations in and learn how to get working wi
 # FILL THINGS OUT BELOW THIS LINE AND DO IT IN MARKDOWN
 
 ## Working definition of Git and what it's done for
-Git is used to track changes to code between developers of a project. 
+Git is used to track changes to code between the developers of a project. 
 
 ## What do you think the top 3 reasons to use GitHub / GitLab are?
 1. Collaboration
@@ -30,10 +30,14 @@ A PR is what a developer does when they are ready to push there changes to the m
 
 ## Links to relevent Github / git tutorials
 - [Github](https://github.com/)
+- https://www.youtube.com/watch?v=0fKg7e37bQE
+- https://www.youtube.com/watch?v=fQLK8Ib_SKk
+- [Github](https://github.com/)
 - https://www.youtube.com/watch?v=SWYqp7iY_Tc
 - https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
 
 ### Change this image to be something else with different alt data
 You can also do images like the one just below here using the !
 ![Patrick](https://media.giphy.com/media/oyQ9vnvVvPNES3HDko/giphy.gif)
-
+![Oh Spongebob](https://media.giphy.com/media/HmO7FZjok6mhW/giphy.gif).
+![Falling](https://media.giphy.com/media/cHFdCVLqWhOJW/source.gif).
