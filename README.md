@@ -20,9 +20,9 @@ A repo to play with the common git operations in and learn how to get working wi
 ## Working definition of Git and what it's done for
 
 ## What do you think the top 3 reasons to use GitHub / GitLab are?
-1. 
-2. 
-3. 
+1. It's the most popular version control system out there.
+2. The community is alive. 
+3. Github is very user-friendly.
 
 ## What is a Pull Request?
 
