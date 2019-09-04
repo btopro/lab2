@@ -5,15 +5,15 @@ A repo to play with the common git operations in and learn how to get working wi
 - Desktop app (optional, very useful for development) https://desktop.github.com/
 
 ## Steps to complete for the practice activity
-- Get social with github. Setup your account
-- Go to https://github.com/elmsln/elmsln and star / watch / fork the repo
-- Go to https://github.com/elmsln/haxcms and star / watch / fork the repo
-- Go to https://github.com/elmsln/lrnwebcomponents and star / watch / fork the repo
-- Go to this repo and star / watch / fork it -- https://github.com/btopro/lab2
-- From your copy of the repo, edit the README.md file (this file) and fill out the things below the FILL THIS OUT line
-- Use the commit message in order to indicate what you changed
-- Then issue a pull request back against this repo
-- https://oer.hax.psu.edu/bto108/sites/ist402/labs/git will have the non-messed with directions as we'll screw up this repo to see how version control works during class
+- [ ] Get social with github. Setup your account
+- [ ] Go to https://github.com/elmsln/elmsln and star / watch / fork the repo
+- [ ] Go to https://github.com/elmsln/haxcms and star / watch / fork the repo
+- [ ] Go to https://github.com/elmsln/lrnwebcomponents and star / watch / fork the repo
+- [ ] Go to this repo and star / watch / fork it -- https://github.com/btopro/lab2
+- [ ] From your copy of the repo, edit the README.md file (this file) and fill out the things below the FILL THIS OUT line
+- [ ] Use the commit message in order to indicate what you changed
+- [ ] Then issue a pull request back against this repo
+- [ ] https://oer.hax.psu.edu/bto108/sites/ist402/labs/git will have the non-messed with directions as we'll screw up this repo to see how version control works during class
 
 # FILL THINGS OUT BELOW THIS LINE AND DO IT IN MARKDOWN
 
