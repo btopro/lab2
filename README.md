@@ -18,22 +18,28 @@ A repo to play with the common git operations in and learn how to get working wi
 # FILL THINGS OUT BELOW THIS LINE AND DO IT IN MARKDOWN
 
 ## Working definition of Git and what it's done for
-
+Git is a free and open source distributed version control system designed to handle every projects
 ## What do you think the top 3 reasons to use GitHub / GitLab are?
-1. A powerful collaboration tool, especially for large groups or enteprise grade projects.
-2. Gitlab is used for open source coding project, github uses proprietary source code. But both have similar feature sets
-3. Automation which lets you manage seperate workflows for an unlimited amount of repositories. 
+1. Version control
+2. Collaborate
+3. Code review
 
-## What is a Pull Request? Is basically requesting the target repo to accept your changes in said branch, it also notifies everyone of the changes.
+## What is a Pull Request?
+Pull requests let you tell others about changes you've pushed to a branch in a repository
+
+a pull request lets other users know that youve made changes and what those changes are. 
 
 ## Links to relevent Github / git tutorials
-- How to do branches in github https://youtu.be/H5GJfcp3p4Q
-- Forking, cloning and making changes! https://guides.github.com/activities/forking/
-- How to create your own repository https://help.github.com/en/desktop/getting-started-with-github-desktop/creating-your-first-repository-using-github-desktop
+- [Github](https://github.com/)
+- https://www.youtube.com/watch?v=0fKg7e37bQE
+- https://www.youtube.com/watch?v=fQLK8Ib_SKk
+- [Github](https://github.com/)
+- https://www.youtube.com/watch?v=SWYqp7iY_Tc
+- https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
 
 
 ### Change this image to be something else with different alt data
 You can also do images like the one just below here using the !
-![Oh Spongebob](https://media.giphy.com/media/3oEjI4sFlp73fvEYgw/giphy.gif).
-
 ![Yes jojo](http://giphygifs.s3.amazonaws.com/media/iP8P6sbQTrmMM/giphy.gif).
+![Oh Spongebob](https://media.giphy.com/media/HmO7FZjok6mhW/giphy.gif).
+![Falling](https://media.giphy.com/media/cHFdCVLqWhOJW/source.gif).
