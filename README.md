@@ -35,4 +35,4 @@ A pull request is basically an announcement of the changes one has made to other
 ### Change this image to be something else with different alt data
 You can also do images like the one just below here using the !
 ![Oh Spongebob](https://media.giphy.com/media/3oEjI4sFlp73fvEYgw/giphy.gif).
-![hangover](https://giphy.com/gifs/zach-galifianakis-the-hangover-wolf-pack-lYRWahrLyodBm)
+![hangover](http://giphygifs.s3.amazonaws.com/media/lYRWahrLyodBm/giphy.gif).
