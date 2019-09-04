@@ -29,8 +29,8 @@ A pull request is a method of submitting contributions to an open development pr
 
 ## Links to relevent Github / git tutorials
 - [Github](https://github.com/)
-- [Github Guides] (https://guides.github.com/activities/hello-world/)
-- [Github Tutorial] (https://www.youtube.com/watch?v=0fKg7e37bQE)
+- [Github Guides](https://guides.github.com/activities/hello-world/)
+- [Github Tutorial](https://www.youtube.com/watch?v=0fKg7e37bQE)
 
 
 ### Change this image to be something else with different alt data
