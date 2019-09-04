@@ -20,18 +20,19 @@ A repo to play with the common git operations in and learn how to get working wi
 ## Working definition of Git and what it's done for
 
 ## What do you think the top 3 reasons to use GitHub / GitLab are?
-1. 
-2. 
-3. 
+1. A powerful collaboration tool, especially for large groups or enteprise grade projects.
+2. Gitlab is used for open source coding project, github uses proprietary source code. But both have similar feature sets
+3. Automation which lets you manage seperate workflows for an unlimited amount of repositories. 
 
-## What is a Pull Request?
+## What is a Pull Request? Is basically requesting the target repo to accept your changes in said branch, it also notifies everyone of the changes.
 
 ## Links to relevent Github / git tutorials
-- [Github](https://github.com/)
-- Add a resource link here
-- Add another resource link here
+- How to do branches in github https://youtu.be/H5GJfcp3p4Q
+- Forking, cloning and making changes! https://guides.github.com/activities/forking/
+- How to create your own repository https://help.github.com/en/desktop/getting-started-with-github-desktop/creating-your-first-repository-using-github-desktop
 
 
 ### Change this image to be something else with different alt data
 You can also do images like the one just below here using the !
 ![Oh Spongebob](https://media.giphy.com/media/3oEjI4sFlp73fvEYgw/giphy.gif).
+http://giphygifs.s3.amazonaws.com/media/iP8P6sbQTrmMM/giphy.gif
