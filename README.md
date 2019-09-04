@@ -36,4 +36,4 @@ A repo to play with the common git operations in and learn how to get working wi
 You can also do images like the one just below here using the !
 ![Oh Spongebob](https://media.giphy.com/media/3oEjI4sFlp73fvEYgw/giphy.gif).
 
-![Yes jojo] http://giphygifs.s3.amazonaws.com/media/iP8P6sbQTrmMM/giphy.gif
+![Yes jojo](http://giphygifs.s3.amazonaws.com/media/iP8P6sbQTrmMM/giphy.gif).
