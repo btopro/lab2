@@ -18,14 +18,14 @@ A repo to play with the common git operations in and learn how to get working wi
 # FILL THINGS OUT BELOW THIS LINE AND DO IT IN MARKDOWN
 
 ## Working definition of Git and what it's done for
-
+### Git is a distributed version-control system for tracking changes in source code during software development.
 ## What do you think the top 3 reasons to use GitHub / GitLab are?
-1. 
-2. 
-3. 
+1. Collaboration
+2. Version Control
+3. Open Source Software Development
 
 ## What is a Pull Request?
-
+### Request by a developer for the moderators to consider applying their changes
 ## Links to relevent Github / git tutorials
 - [Github](https://github.com/)
 - Add a resource link here
