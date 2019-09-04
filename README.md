@@ -35,4 +35,4 @@ An edit to the original source code so the person issuing the pull request can g
 ### Change this image to be something else with different alt data
 You can also do images like the one just below here using the !
 ![Oh Spongebob](https://media.giphy.com/media/3oEjI4sFlp73fvEYgw/giphy.gif).
-![Aliens] (https://media.giphy.com/media/RJddmVhFR04GisOuII/source.mp4).
+![Aliens](https://media.giphy.com/media/RJddmVhFR04GisOuII/source.mp4).
