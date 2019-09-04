@@ -30,9 +30,10 @@ A PR is what a developer does when they are ready to push there changes to the m
 
 ## Links to relevent Github / git tutorials
 - [Github](https://github.com/)
-- Add a resource link here
-- Add another resource link here
+- https://www.youtube.com/watch?v=SWYqp7iY_Tc
+- https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
 
 ### Change this image to be something else with different alt data
 You can also do images like the one just below here using the !
 ![Patrick](https://media.giphy.com/media/oyQ9vnvVvPNES3HDko/giphy.gif)
+
