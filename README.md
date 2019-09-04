@@ -20,18 +20,18 @@ A repo to play with the common git operations in and learn how to get working wi
 ## Working definition of Git and what it's done for
 
 ## What do you think the top 3 reasons to use GitHub / GitLab are?
-1. 
-2. 
-3. 
+1. Easy to Contribute to open source projects
+2. Showcase of work
+3. Efficient documentation
 
 ## What is a Pull Request?
-
+Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub.
 ## Links to relevent Github / git tutorials
 - [Github](https://github.com/)
-- Add a resource link here
-- Add another resource link here
+- https://www.youtube.com/watch?v=0fKg7e37bQE
+- https://www.youtube.com/watch?v=E8TXME3bzNs
 
 
 ### Change this image to be something else with different alt data
 You can also do images like the one just below here using the !
-![Oh Spongebob](https://media.giphy.com/media/3oEjI4sFlp73fvEYgw/giphy.gif).
+![New GIF](https://media.giphy.com/media/SKGo6OYe24EBG/giphy.gif)
