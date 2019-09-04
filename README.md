@@ -18,20 +18,21 @@ A repo to play with the common git operations in and learn how to get working wi
 # FILL THINGS OUT BELOW THIS LINE AND DO IT IN MARKDOWN
 
 ## Working definition of Git and what it's done for
+Git is used to track changes to code between developers of a project. 
 
 ## What do you think the top 3 reasons to use GitHub / GitLab are?
-1. 
-2. 
-3. 
+1. Collaboration
+2. Faster changes to code (faster development)
+3. Organization
 
 ## What is a Pull Request?
+A PR is what a developer does when they are ready to push there changes to the master branch. He/she is requesting for their changes to be reviewed by other developers in the project. If the PR is accepted, the changes will be merged. If not, the developer can address comments, make the proper changes, and request another PR. 
 
 ## Links to relevent Github / git tutorials
 - [Github](https://github.com/)
 - Add a resource link here
 - Add another resource link here
 
-
 ### Change this image to be something else with different alt data
 You can also do images like the one just below here using the !
-![Oh Spongebob](https://media.giphy.com/media/3oEjI4sFlp73fvEYgw/giphy.gif).
+![Patrick](https://media.giphy.com/media/oyQ9vnvVvPNES3HDko/giphy.gif)
