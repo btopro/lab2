@@ -18,20 +18,20 @@ A repo to play with the common git operations in and learn how to get working wi
 # FILL THINGS OUT BELOW THIS LINE AND DO IT IN MARKDOWN
 
 ## Working definition of Git and what it's done for
-
+**Git is an open source distributed version control system used for easy code management/sharing.**
 ## What do you think the top 3 reasons to use GitHub / GitLab are?
-1. 
-2. 
-3. 
+1. Version control
+2. Simple workflow
+3. Easy collaboration
 
 ## What is a Pull Request?
-
+**A pull request is a way of submitting changes.**
 ## Links to relevent Github / git tutorials
 - [Github](https://github.com/)
-- Add a resource link here
-- Add another resource link here
+- [Atlassian] (https://www.atlassian.com/git/tutorials)
+- [The New Stack] (https://thenewstack.io/tutorial-git-for-absolutely-everyone/)
 
 
 ### Change this image to be something else with different alt data
-You can also do images like the one just below here using the !
-![Oh Spongebob](https://media.giphy.com/media/3oEjI4sFlp73fvEYgw/giphy.gif).
+
+![Matty](http://giphygifs.s3.amazonaws.com/media/g5zvwUa9720pO/giphy.gif).
