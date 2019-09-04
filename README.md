@@ -36,4 +36,4 @@ A repo to play with the common git operations in and learn how to get working wi
 
 ### Change this image to be something else with different alt data
 You can also do images like the one just below here using the !
-![LOOLOOLOOLOO](https://giphy.com/gifs/spongebob-my-post-netflix-and-chill-UvOcKPHrkKSLm).
+![LOOLOOLOOLOO](https://media.giphy.com/media/UvOcKPHrkKSLm/giphy.gif).
