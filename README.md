@@ -18,7 +18,7 @@ A repo to play with the common git operations in and learn how to get working wi
 # FILL THINGS OUT BELOW THIS LINE AND DO IT IN MARKDOWN
 
 ## Working definition of Git and what it's done for
-#  GitHub is an open-source repository hoster that allows users to host code and collaborate on it within one unified platform 
+###  GitHub is an open-source repository hoster that allows users to host code and collaborate on it within one unified platform 
 
 ## What do you think the top 3 reasons to use GitHub / GitLab are?
 1. Version Control
@@ -26,7 +26,7 @@ A repo to play with the common git operations in and learn how to get working wi
 3. Allow your code to be reviewed by users on the internet most likely free of charge
 
 ## What is a Pull Request?
-#  A Pull request is a proposed code commit to be merged into the codebase of a particular GitHub repo
+###  A Pull request is a proposed code commit to be merged into the codebase of a particular GitHub repo
 
 ## Links to relevent Github / git tutorials
 - [Github](https://github.com/)
@@ -36,4 +36,4 @@ A repo to play with the common git operations in and learn how to get working wi
 
 ### Change this image to be something else with different alt data
 You can also do images like the one just below here using the !
-![SpongebobInWindow](https://giphy.com/gifs/spongebob-squarepants-AZa4KP7o6J7Us).
+![SpongebobInWindow](https://media.giphy.com/media/AZa4KP7o6J7Us/giphy.gif).
