@@ -22,7 +22,7 @@ A repo to play with the common git operations in and learn how to get working wi
 ## What do you think the top 3 reasons to use GitHub / GitLab are?
 1. 
 2. 
-3. 
+3. stuff
 
 ## What is a Pull Request?
 
