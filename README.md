@@ -18,7 +18,7 @@ A repo to play with the common git operations in and learn how to get working wi
 # FILL THINGS OUT BELOW THIS LINE AND DO IT IN MARKDOWN
 
 ## Working definition of Git and what it's done for
-
+"Git is a distributed version-control system for tracking changes in source code during software development." Basiclly means that team of programmer can working on the same project without conflicting. This tool is use for code collaboration.
 ## What do you think the top 3 reasons to use GitHub / GitLab are?
 1. Save time
 2. Less mistake
