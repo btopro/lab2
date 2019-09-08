@@ -9,11 +9,11 @@ It is also very interesting to see how Pull Request functions being very handy w
 And for the purpose of practicing `markdown`, refer below for the terminal commands I used in my video:
 
 <pre>
-> git clone <i>"link to your repository"</i> 
+> git clone <i>link to your repository</i> 
 </pre>
 
 <pre>
-> cd <i>"directory location of your local repository"</i> 
+> cd <i>directory location of your local repository</i> 
 </pre>
 
 <pre>
