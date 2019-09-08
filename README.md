@@ -23,22 +23,21 @@ Git is a free and open source distributed version control system designed to han
 1. Version control
 2. Collaborate
 3. Code review
+4. Will not mess up the updated version
+5. Better communicate your code with other people
+6. It is easy to use for a group.
 
 ## What is a Pull Request?
-Pull requests let you tell others about changes you've pushed to a branch in a repository
+Pull requests let you tell others about changes you've pushed to a branch in a repository.
 
-a pull request lets other users know that youve made changes and what those changes are. 
-
-## Links to relevent Github / git tutorials
+## Links to relevant Github / git tutorials
 - [Github](https://github.com/)
 - https://www.youtube.com/watch?v=0fKg7e37bQE
 - https://www.youtube.com/watch?v=fQLK8Ib_SKk
-- [Github](https://github.com/)
-- https://www.youtube.com/watch?v=SWYqp7iY_Tc
 - https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
 
 
 ### Change this image to be something else with different alt data
 You can also do images like the one just below here using the !
-![Oh Spongebob](https://media.giphy.com/media/HmO7FZjok6mhW/giphy.gif).
+![Oh Spongebob](https://media.giphy.com/media/2ZvQhiW2dup20/giphy.gif).
 ![Falling](https://media.giphy.com/media/cHFdCVLqWhOJW/source.gif).
