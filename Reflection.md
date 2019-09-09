@@ -1,9 +1,8 @@
-# My Reflection / Blog
-Use this file to submit your blog post to your github account / repo. In it, include some markdown to practice, especially a link to your video.
-*Screencast submission* - [YouTube video by HAXcms core contributor Michael Potter](https://www.youtube.com/watch?v=5aPae031TxM&list=PLJQupiji7J5cGYiOflGYFwXSEoHMoowkP&index=17&t=0s)
-Here's a reminder of how you do the link above as code.
-```markdown
-*Screencast submission* - [YouTube video by HAXcms core contributor Michael Potter](https://www.youtube.com/watch?v=5aPae031TxM&list=PLJQupiji7J5cGYiOflGYFwXSEoHMoowkP&index=17&t=0s)
-```
+# Lab 2: Git / GitHub / Contribution
 
-Good luck!
+## DBoKnows 
+### IST 402
+
+This week’s lab helped me figure out the different advantages that GitHub has to offer. My video this week specifically walked through what a pull request is and how to execute one. A pull request lets you tell the master and others working on the project about the changes you have pushed to the GitHub repository. When you send the pull request, the master of the project can review the changes that you have made and either update the project with your work or at the very least start a dialogue about the changes you have made and what to do next. I enjoyed this lab very much because it forced me to use something that I have never used before. I think that knowing what GitHub is and how to use it can set anyone apart from the crowd when applying for IT jobs. I hope to use more of GitHub in the future and potentially for projects in others courses I am taking this year. Below is my link to my lab video on YouTube, I hope you enjoy the content.   
+ 
+Youtube: [Github: Pull Requests](https://www.youtube.com/watch?v=Hn7qCFXhCY0&t=2s)
