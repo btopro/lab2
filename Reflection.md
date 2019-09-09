@@ -1,10 +1,8 @@
 # My Reflection
 ### Lab 2 - Henry Pearce
 
+Lab 2 consisted of us working with GitHub. At my internship this summer, I gained experience working with Git throguh BitBucket, and also got to work a little bit with GitHub. Because of this I still found the exercises this week helpful for learning more about Git and GitHub, especially when it came to forks and pull requests. 
 
-Use this file to submit your blog post to your github account / repo. In it, include some markdown to practice, especially a link to your video.
-*Screencast submission* - [YouTube video by HAXcms core contributor Michael Potter](https://www.youtube.com/watch?v=5aPae031TxM&list=PLJQupiji7J5cGYiOflGYFwXSEoHMoowkP&index=17&t=0s)
-Here's a reminder of how you do the link above as code.
-
+In my screencast, I demostrate how to do a pull request. In the video, I working with a repository from my personal account that I fork over to *future-push*. The repository is for a simple python script that grants Amazon Web Services users temporary security credentials that they can use through the AWS CLI. This was a project I worked on during my internship, and I was given permission to make it open source. In the video, I fix some intentional errors in the README for the repository and then submit a pull request. 
 
 *Screencast submission* - [Lab 2 - IST 402 by Henry Pearce](https://youtu.be/KdyQiekcm0c)
