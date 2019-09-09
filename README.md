@@ -18,16 +18,15 @@ A repo to play with the common git operations in and learn how to get working wi
 # FILL THINGS OUT BELOW THIS LINE AND DO IT IN MARKDOWN
 
 ## Working definition of Git and what it's done for
-Git is a free and open source distributed version control system designed to handle every projects
+Git is a free and open source distributed version control system designed to handle every project.
+
 ## What do you think the top 3 reasons to use GitHub / GitLab are?
-1. Version control
-2. Collaborate
-3. Code review
+1. Source control
+2. Collaboration with other developers
+3. Allows you to promote your code for others to view
 
 ## What is a Pull Request?
-Pull requests let you tell others about changes you've pushed to a branch in a repository
-
-a pull request lets other users know that youve made changes and what those changes are. 
+Pull requests allow you to tell other users about changes you've pushed to a repository, which leads to collaberation and review on possible changes.
 
 ## Links to relevent Github / git tutorials
 - [Github](https://github.com/)
@@ -36,9 +35,9 @@ a pull request lets other users know that youve made changes and what those chan
 - [Github](https://github.com/)
 - https://www.youtube.com/watch?v=SWYqp7iY_Tc
 - https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
-
+- https://youtu.be/Loav1kbA640
 
 ### Change this image to be something else with different alt data
 You can also do images like the one just below here using the !
 ![Oh Spongebob](https://media.giphy.com/media/HmO7FZjok6mhW/giphy.gif).
-![Falling](https://media.giphy.com/media/cHFdCVLqWhOJW/source.gif).
+![Avocado](https://media2.giphy.com/media/d1FL4zXfIQZMWFQQ/giphy.gif?cid=790b761127055170e6508b28f43c4714ba45a77f53806057&rid=giphy.gif).
