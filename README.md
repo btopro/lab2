@@ -18,6 +18,16 @@ A repo to play with the common git operations in and learn how to get working wi
 # FILL THINGS OUT BELOW THIS LINE AND DO IT IN MARKDOWN
 
 ## Working definition of Git and what it's done for
+
+### Git is a distributed version-control system for tracking changes in source code during software development.
+## What do you think the top 3 reasons to use GitHub / GitLab are?
+1. Collaboration
+2. Version Control
+3. Open Source Software Development
+
+## What is a Pull Request?
+### Request by a developer for the moderators to consider applying their 
+
 Git is a free and open source distributed version control system designed to handle every projects
 ## What do you think the top 3 reasons to use GitHub / GitLab are?
 1. Version control
@@ -28,6 +38,7 @@ Git is a free and open source distributed version control system designed to han
 Pull requests let you tell others about changes you've pushed to a branch in a repository
 
 a pull request lets other users know that youve made changes and what those changes are. 
+
 
 ## Links to relevent Github / git tutorials
 - [Github](https://github.com/)
