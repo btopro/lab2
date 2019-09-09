@@ -36,6 +36,7 @@ Pull requests allow you to tell other users about changes you've pushed to a rep
 - https://www.youtube.com/watch?v=SWYqp7iY_Tc
 - https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
 - https://youtu.be/Loav1kbA640
+- https://github.com/llSourcell/How-to-Use-GitHub
 
 ### Change this image to be something else with different alt data
 You can also do images like the one just below here using the !
