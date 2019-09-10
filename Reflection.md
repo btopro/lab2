@@ -1,9 +1,6 @@
 # My Reflection / Blog
-Use this file to submit your blog post to your github account / repo. In it, include some markdown to practice, especially a link to your video.
-*Screencast submission* - [YouTube video by HAXcms core contributor Michael Potter](https://www.youtube.com/watch?v=5aPae031TxM&list=PLJQupiji7J5cGYiOflGYFwXSEoHMoowkP&index=17&t=0s)
-Here's a reminder of how you do the link above as code.
-```markdown
-*Screencast submission* - [YouTube video by HAXcms core contributor Michael Potter](https://www.youtube.com/watch?v=5aPae031TxM&list=PLJQupiji7J5cGYiOflGYFwXSEoHMoowkP&index=17&t=0s)
-```
+### 8bitDahv
+In this week's lab, I decided to tackle one of the changes where I was modifying the index.html file and changing some of the text to reflect what the author meant. Through this, I learned about forking repos, creating pull requests, and how to take an issue from an open source project from start to finish. I also learned about Markdown and how it can be applied in application that support it. I found a helpful guide to markdown that I discuss in my screencast video *(found below)* that is great for helping understand the syntax of **Markdown** and some of the reasons why it may be easier to use than HTML at times. The GitHub platform has been very fun to learn as well. Coming from a terminal-only version control system, having a front-end interface to work with has been incredibly helpful this time around.  Please find more information about GitHub and specifically markdown at the video found below.
 
-Good luck!
+*8bitDahv explains Markdown* - [YouTube video by 8bitDahv](https://youtu.be/rsFvJKwd_Vg)
+
