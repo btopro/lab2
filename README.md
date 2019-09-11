@@ -40,5 +40,5 @@ a pull request lets other users know that youve made changes and what those chan
 
 ### Change this image to be something else with different alt data
 You can also do images like the one just below here using the !
-![Oh Spongebob](https://media.giphy.com/media/HmO7FZjok6mhW/giphy.gif).
-![Falling](https://media.giphy.com/media/cHFdCVLqWhOJW/source.gif).
+![Mickey](https://cbsnews3.cbsistatic.com/hub/i/r/2010/12/03/79ed9c0e-a644-11e2-a3f0-029118418759/resize/620x465/94b66abc1317bbbd3581ad4f2c4bc7a7/365073.jpg).
+![Homer](https://cdn.pastemagazine.com/www/blogs/lists/2010/05/13/homer_simpson_300.jpg).
