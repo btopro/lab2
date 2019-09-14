@@ -1,4 +1,4 @@
-# My Reflection / Blog - Michael Wisser
+# My Reflection / Blog - Mhykol W
 **Class Section:** IST 402.002
 **Date:** September 8, 2019
 
