@@ -1,4 +1,5 @@
 This lab taught us how to edit files in git, add to a repo, make pull requests, and type basic markdowns.I’ve had 0 experience with github, so it was refreshing to see how it worked as a more complex version google docs on steroids but with pull requests and code. It promotes collaboration and communication. I focused mainly on the pull request because it was the more straightforward interaction for me. This showed me how easy it is to sandbox your own development process. creating pull requests is best used when making changes to a main branch and fixing bugs without risking to mess up the main branch.
+https://www.youtube.com/watch?v=icaSVqGMDmQ&feature=youtu.be
 
 # Git Practice Activity for Lab2
 A repo to play with the common git operations in and learn how to get working with markdown
