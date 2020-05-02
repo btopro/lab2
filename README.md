@@ -40,5 +40,4 @@ a pull request lets other users know that youve made changes and what those chan
 
 ### Change this image to be something else with different alt data
 You can also do images like the one just below here using the !
-![Oh Spongebob](https://media.giphy.com/media/HmO7FZjok6mhW/giphy.gif).
 ![Falling](https://media.giphy.com/media/cHFdCVLqWhOJW/source.gif).

@@ -1,9 +1,17 @@
-# My Reflection / Blog
-Use this file to submit your blog post to your github account / repo. In it, include some markdown to practice, especially a link to your video.
-*Screencast submission* - [YouTube video by HAXcms core contributor Michael Potter](https://www.youtube.com/watch?v=5aPae031TxM&list=PLJQupiji7J5cGYiOflGYFwXSEoHMoowkP&index=17&t=0s)
-Here's a reminder of how you do the link above as code.
-```markdown
-*Screencast submission* - [YouTube video by HAXcms core contributor Michael Potter](https://www.youtube.com/watch?v=5aPae031TxM&list=PLJQupiji7J5cGYiOflGYFwXSEoHMoowkP&index=17&t=0s)
-```
+In Lab 2, we talked about using Git for version control and how to commit changes to Github. This is a very important topic to know as Git and Github are very common in this day and age. We learned in Lab 2 how to use several git commands like git clone, git push, git commit, and git pull. Additionally we learned about pull requests which are very usefull in version control.
 
-Good luck!
+For me this lab was partially a review of something I had done before in my internship. Throughout the summer I used git for committing code to my team's repository. An example of the process I used was that I had a copy of the main branch downloaded locally. I would then do work on the code that was within that repository and then go through the process of committing and pushing. On the website where I had my version of the main branch, my commit would show up there and require a merge to enter the main branch. That would be where the pull request would come into play as I would create the request and have my boss review the changes. If they were good then I would be approved to merge the changes. The one thing I will say that was different here however is that in this lab we used the main Github website which I did not use at my internship. When I was there we used a different repository website, but the process was the same however for the pull requests. Regardless this is a good process to know as it is both commonly used and very good for managing changes.
+
+Screencast: https://youtu.be/B_CLDtceULA
+
+Commands used
+
+git clone <url>
+
+git status
+
+git add <file>
+
+git commit -m <message with quotation marks>
+
+git push <repository url>
